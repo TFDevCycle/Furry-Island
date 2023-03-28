@@ -1,5 +1,5 @@
 # Furry Island
-
+it is the First Preview of my Own Gameboy Game, it has not much content, but in the next Releases it will get new Content
 ## BinJI
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
