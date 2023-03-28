@@ -1,27 +1,39 @@
-# Furry Island
-it is the First Preview of my Own Gameboy Game, it has not much content, but in the next Releases it will get new Content
-## BinJI
+# Game Name
+
+Game Name is a simple Gameboy game that I created as my first game development project. It's a classic side-scrolling platformer where you play as a character who must navigate through various levels, jumping over obstacles and enemies to reach the end goal.
+
+## Getting Started
+
+To play the game, you'll need a Gameboy emulator installed on your computer. You can find many free Gameboy emulators online that you can download and install.
+
+Once you have an emulator installed, download the game ROM file and load it into the emulator to start playing.
+
+## Controls
+
+The game controls are simple and easy to learn:
+
+- D-pad: Move left or right
+- A button: Jump
+- B button: Shoot (once you acquire a weapon)
+
+## Gameplay
+
+In Game Name, you play as a character who must navigate through various levels, each with its own unique challenges and obstacles. Along the way, you'll collect power-ups and weapons that will help you in your journey.
+
+The game features a simple scoring system, with points awarded for defeating enemies and collecting items.
+
+## Credits
+
+Game Name was created by [Your Name Here]. Special thanks to [Any resources, tools, or individuals you'd like to thank here]. 
+
+## Future Development
+
+I plan to continue developing Game Name and adding new features and levels in the future. Stay tuned for updates and new releases!
+
+## Screenshots
+
+[Insert some screenshots or gameplay videos here to give players a preview of the game]
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
 
 It includes changes from [Daid's fork](https://github.com/daid/binjgb) and others to better support GB Studio.
-
-## License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
