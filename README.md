@@ -1,4 +1,6 @@
-# binjgb
+# Furry Island
+
+## BinJI
 
 Fork of binji's Game Boy emulator built as a WebAssembly module.
 
